@@ -1,0 +1,11 @@
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\bin\Debug\Numato USB Relay Software.exe.config
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\bin\Debug\Numato USB Relay Software.exe
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\bin\Debug\Numato USB Relay Software.pdb
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.csproj.AssemblyReference.cache
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato_USB_Relay_Software.Properties.Resources.resources
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.csproj.GenerateResource.cache
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.csproj.CoreCompileInputs.cache
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.exe
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato USB Relay Software.pdb
+C:\Users\sison\OneDrive\Desktop\Jeph\TEST DEVELOPMENT FILES\Numato\Numato USB Relay Software\Numato USB Relay Software\obj\Debug\Numato_USB_Relay_Software.Form1.resources
